@@ -1,8 +1,10 @@
 {
-  "dependencies": {
-    "node": "^20.19.4"
-  }
+  "name": "js-github-action",
+  "version": "1.0.0",
   "scripts": {
-  "test": "node test/pruebas.test.js"
-}
+    "test": "node test/pruebas.test.js"
+  },
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
 }
