@@ -2,7 +2,7 @@
   "name": "js-github-action",
   "version": "1.0.0",
   "scripts": {
-    "test": "node test/pruebas.test.js"
+    "test": "jest"
   },
   "devDependencies": {
     "jest": "^30.0.4"
